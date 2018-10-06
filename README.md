@@ -3,4 +3,4 @@
 
 思路：
 
-![image](https://github.com/aweiu/permut-array/raw/master/mind.png)
+![image](https://github.com/aweiu/permute-array/blob/master/mind.png)
